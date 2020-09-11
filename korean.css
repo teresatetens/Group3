@@ -1,0 +1,106 @@
+html,
+body {
+  box-sizing: border-box;
+}
+
+.Lecker {
+  font-family: "Amatic SC", cursive;
+  font-size: 100px;
+  color: lightgreen;
+  text-shadow: 2px 2px orange;
+}
+
+.container {
+}
+
+#link {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+a input {
+  background-color: burlywood;
+  color: white;
+  border: 1px solid white;
+}
+
+span {
+  font-style: italic;
+  font-size: 40px;
+  color: green;
+}
+
+.phrase {
+  font-weight: bold;
+}
+
+#Turkey {
+  background: url(images/HintergrundKorea.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 400px;
+  border-bottom: 8px solid white;
+  font-style: italic;
+  font-size: 80px;
+  color: lightgreen;
+  text-shadow: 2px 2px orange;
+  /*font-family: "Sacramento", cursive;
+  font-size: 80px;
+  color: lightgreen;
+  text-shadow: 2px 2px orange;*/
+}
+
+#FoodName > div {
+  border-right: 14px solid white;
+  border-left: 14px solid white;
+  border-bottom: 10px solid white;
+  background-color: white;
+  text-align: center;
+  color: black;
+  border-right: 1px solid lawngreen;
+  border-left: 1px solid lawngreen;
+  font-style: italic;
+}
+
+#picture > div {
+  border-right: 8px solid white;
+  text-align: center;
+}
+
+#picture1 img {
+  height: 320px;
+  width: 260px;
+}
+
+#picture2 img {
+  height: 320px;
+  width: 260px;
+}
+
+#picture3 img {
+  height: 320px;
+  width: 260px;
+}
+
+#picture4 img {
+  height: 320px;
+  width: 260px;
+}
+
+#tradition > div {
+  border-top: 10px solid white;
+  border-right: 14px solid white;
+  border-left: 14px solid white;
+  background-color: white;
+  color: black;
+  text-align: center;
+  border-right: 1px solid lawngreen;
+  border-left: 1px solid lawngreen;
+  font-style: italic;
+}
+
+#link {
+  margin-left: 440px;
+  margin-bottom: 20px;
+}
